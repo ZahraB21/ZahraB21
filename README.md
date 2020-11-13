@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a software/web developer who is passionate about the latest web technolofies and frameworks. 
+
+[Check me out on LinkedIn]:(https://www.linkedin.com/in/jana-behfarshad/)
 <!--
 **ZahraB21/ZahraB21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
