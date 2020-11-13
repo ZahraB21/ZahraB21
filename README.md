@@ -2,7 +2,7 @@
 
 I'm a software/web developer who is passionate about the latest web technolofies and frameworks. 
 
-[LinkedIn Profile](https://www.linkedin.com/in/jana-behfarshad/)
+[My LinkedIn Profile](https://www.linkedin.com/in/jana-behfarshad/)
 
 
 
