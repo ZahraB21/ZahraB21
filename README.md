@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software/web developer who is passionate about the latest web technolofies and frameworks. 
+I'm a software/web developer who is passionate about the latest web technologies and frameworks. 
 
 [My LinkedIn Profile](https://www.linkedin.com/in/jana-behfarshad/)
 
